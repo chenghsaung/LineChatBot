@@ -1,0 +1,6 @@
+django
+gunicorn
+django-heroku
+Flask
+line-bot-sdk
+pandas
