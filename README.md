@@ -1,2 +1,0 @@
-# LineChatBot
-For Fun
