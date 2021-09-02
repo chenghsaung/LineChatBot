@@ -60,7 +60,7 @@ button_template_message =ButtonsTemplate(
                                     label='巴哈楓之谷m', uri='https://forum.gamer.com.tw/B.php?bsn=29461'
                                 ),
                                 URITemplateAction(
-                                    label='楓之谷m官方臉書', uri='https://www.facebook.com/TW.PlayMapleM/?epa=SEARCH_BOX'
+                                    label='楓之谷m官方臉書粉絲團', uri='https://www.facebook.com/TW.PlayMapleM/?epa=SEARCH_BOX'
                                 )
                             ]
                         )
